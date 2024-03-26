@@ -1,6 +1,6 @@
   [![MasterHead](https://bilimvegelecek.com.tr/wp-content/uploads/2018/01/yazilim-bilisim-kodlama-7.jpg)
 
-<h1 align="center">Hi 👋, I'm ALİ ASlAN</h1>
+<h1 align="center">Hi 👋, I'm ALİ ASLAN</h1>
 <h3 align="center">I am student at Bandırma Onyedi eylul unıversty</h3>
 
 - 📫 How to reach me **aliaslan36881@gmail.com**
